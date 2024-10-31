@@ -1,1 +1,1 @@
-Создал  ветвь readme-edits# ProjSale
+Создал ветвь readme-edits# ProjSale
